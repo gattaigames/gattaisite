@@ -13,12 +13,12 @@ body{
 {
 	position: fixed;
 	margin: -50px auto 0 auto;
-	padding: 2px 0 2px 0;
+	padding: 2px 0 6px 0;
 	width: 100%;
-	background-color: #E6531E;
+	background-color: #F05A24;
 	font-weight: bold;
 	font-size: 1.25em;
-	border-color: #982C0E;
+	border-color: transparent /*#982C0E*/;
 	border-style: solid;
 	border-width: 0 0 3px 0;
 	color: white !important;
@@ -63,7 +63,7 @@ body{
 	width: 190px;
 	display: block;
 	float: right;
-	background-color: #E6531E;
+	background-color: #F05A24;
 	z-index: 14;
 	font-size: 1em;
 	-webkit-border-radius: 5;
