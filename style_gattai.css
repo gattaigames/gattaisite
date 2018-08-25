@@ -13,7 +13,7 @@ body{
 {
 	position: fixed;
 	margin: -50px auto 0 auto;
-	padding: 2px 0 6px 0;
+	padding: 2px 0 3px 0;
 	width: 100%;
 	background-color: #F05A24;
 	font-weight: bold;
@@ -30,7 +30,7 @@ body{
 
 #headerSocial
 {
-	margin: 8px 1em 0px 0;
+	margin: 9px 1.05em 0px 0;
 	display: block;
 	float: right;
 }
@@ -58,7 +58,7 @@ body{
 {
 	position: fixed;
 	right: 1em;
-	margin: -5px -2px 0 0;
+	margin: -3px -2px 0 0;
 	padding: 7px 6px 7px 6px;
 	width: 190px;
 	display: block;
@@ -145,7 +145,7 @@ body{
 	margin-left: 1em;
 	margin-top: -8.7em;
 	background-color: #F05A24;
-	padding: 0.25em;
+	padding: 0.2em;
 	pointer-events: all !important;
 }
 
