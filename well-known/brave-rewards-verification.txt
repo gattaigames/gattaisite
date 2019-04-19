@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gattaigames.com
+Token: 040a18b59b141104a2a160edfb610d8cb296bb9c1bc651b95f00b17391247de3
